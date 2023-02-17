@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-17T15:18:42 EST" name="Default suite" finished-at="2023-02-17T15:20:16 EST" duration-ms="94350">
+    <groups>
+    </groups>
+    <test started-at="2023-02-17T15:18:42 EST" name="Default test" finished-at="2023-02-17T15:20:16 EST" duration-ms="94350">
+      <class name="com.tests.SalesforceTestAutomation">
+        <test-method is-config="true" signature="setUpBeforeTest()[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:18:43 EST" name="setUpBeforeTest" finished-at="2023-02-17T15:18:44 EST" duration-ms="1063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method is-config="true" signature="setupBeforeTestMethod(java.lang.String)[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:18:44 EST" name="setupBeforeTestMethod" finished-at="2023-02-17T15:18:51 EST" duration-ms="7716" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTestMethod -->
+        <test-method signature="forgotPasswordTc4()[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:18:51 EST" name="forgotPasswordTc4" finished-at="2023-02-17T15:18:58 EST" duration-ms="6928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordTc4 -->
+        <test-method is-config="true" signature="AfterTearDownMethod()[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:18:58 EST" name="AfterTearDownMethod" finished-at="2023-02-17T15:19:00 EST" duration-ms="1289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTearDownMethod -->
+        <test-method is-config="true" signature="setupBeforeTestMethod(java.lang.String)[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:19:00 EST" name="setupBeforeTestMethod" finished-at="2023-02-17T15:19:05 EST" duration-ms="5848" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTestMethod -->
+        <test-method signature="forgotPasswordTc4a()[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:19:05 EST" name="forgotPasswordTc4a" finished-at="2023-02-17T15:19:26 EST" duration-ms="20247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordTc4a -->
+        <test-method is-config="true" signature="AfterTearDownMethod()[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:19:26 EST" name="AfterTearDownMethod" finished-at="2023-02-17T15:19:27 EST" duration-ms="1124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTearDownMethod -->
+        <test-method is-config="true" signature="setupBeforeTestMethod(java.lang.String)[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:19:27 EST" name="setupBeforeTestMethod" finished-at="2023-02-17T15:19:35 EST" duration-ms="8089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTestMethod -->
+        <test-method signature="rememberMeTc3()[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:19:35 EST" name="rememberMeTc3" finished-at="2023-02-17T15:19:48 EST" duration-ms="13363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rememberMeTc3 -->
+        <test-method is-config="true" signature="AfterTearDownMethod()[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:19:48 EST" name="AfterTearDownMethod" finished-at="2023-02-17T15:19:49 EST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTearDownMethod -->
+        <test-method is-config="true" signature="setupBeforeTestMethod(java.lang.String)[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:19:49 EST" name="setupBeforeTestMethod" finished-at="2023-02-17T15:19:53 EST" duration-ms="4066" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTestMethod -->
+        <test-method signature="salesforceLoginErrorTc1()[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:19:53 EST" name="salesforceLoginErrorTc1" finished-at="2023-02-17T15:19:55 EST" duration-ms="1918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesforceLoginErrorTc1 -->
+        <test-method is-config="true" signature="AfterTearDownMethod()[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:19:55 EST" name="AfterTearDownMethod" finished-at="2023-02-17T15:19:55 EST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTearDownMethod -->
+        <test-method is-config="true" signature="setupBeforeTestMethod(java.lang.String)[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:19:55 EST" name="setupBeforeTestMethod" finished-at="2023-02-17T15:20:00 EST" duration-ms="4852" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTestMethod -->
+        <test-method signature="salesforceLoginTc2()[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:20:00 EST" name="salesforceLoginTc2" finished-at="2023-02-17T15:20:16 EST" duration-ms="15542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesforceLoginTc2 -->
+        <test-method is-config="true" signature="AfterTearDownMethod()[pri:0, instance:com.tests.SalesforceTestAutomation@40ef3420]" started-at="2023-02-17T15:20:16 EST" name="AfterTearDownMethod" finished-at="2023-02-17T15:20:16 EST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTearDownMethod -->
+      </class> <!-- com.tests.SalesforceTestAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
